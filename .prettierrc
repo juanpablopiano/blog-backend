@@ -1,0 +1,15 @@
+{
+	"tabWidth": 2,
+	"useTabs": false,
+	"insertSpaces": true,
+	"arrowParens": "avoid",
+	"insertFinalNewline": true,
+	"trimTrailingWhitespace": true,
+	"trailingComma": "es5",
+	"singleQuote": true,
+	"bracketSpacing": true,
+	"quoteProps": "as-needed",
+	"endOfLine": "lf",
+	"bracketSameLine": true,
+	"semi": true
+}
